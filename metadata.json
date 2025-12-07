@@ -1,0 +1,5 @@
+{
+  "name": "Eclipse Command",
+  "description": "A high-density tactical interface centered around a Gyro-Core navigation system. Features persistent HUD telemetry, perspective grids, and holographic data visualizations.",
+  "requestFramePermissions": []
+}
